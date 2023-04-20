@@ -20,4 +20,7 @@ Lidar data are not updated from 2012 (ISOK project) and point clouds are "colore
 
 ![2](https://user-images.githubusercontent.com/92880201/233001493-7fe2ff48-37e7-41c2-b966-1708b80d4d07.png)
 
-Some times ago I created very simple script in Python to coloring point cloud by georeferences - https://github.com/pnytko/cp_colorizer. 
+Some times ago I created very simple script in Python to coloring point cloud by georeferences - https://github.com/pnytko/cp_colorizer. I use this tool and every point cloud tile get colour based on raster data (time of acquisition - 2022).
+
+![2](https://user-images.githubusercontent.com/92880201/233450497-754622d9-694d-4169-9c67-a9b1901b0b65.png)
+
