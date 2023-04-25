@@ -25,3 +25,8 @@ Some times ago I created very simple script in Python to coloring point cloud by
 ![2](https://user-images.githubusercontent.com/92880201/233451485-455e21d7-5349-4291-8dc3-29c3b60e666c.png)
 
 So, we need to obtain point cloud data that are supported by Potree framework, I use Potree Converter - https://github.com/potree/PotreeConverter
+
+Last step before visualisation is data loading - and voila! Beautiful point cloud render! I'm working only on small part of Tatrzanski National park because my hardware infrastructure is not ready for so big amounts of data. I choose the most interesting part and in future I want develop this app.
+
+![image](https://user-images.githubusercontent.com/92880201/234295534-f7b522dd-b03d-492e-a81e-a495640025fe.png)
+
