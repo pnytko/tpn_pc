@@ -24,3 +24,4 @@ Some times ago I created very simple script in Python to coloring point cloud by
 
 ![2](https://user-images.githubusercontent.com/92880201/233451485-455e21d7-5349-4291-8dc3-29c3b60e666c.png)
 
+So, we need to obtain point cloud data that are supported by Potree framework, I use Potree Converter - https://github.com/potree/PotreeConverter
